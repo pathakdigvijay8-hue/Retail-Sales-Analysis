@@ -216,7 +216,6 @@ The SQL script is organized into the following analysis areas:
 14. Top and least profitable customers
 15. Country-level sales and profit analysis
 
-**Main SQL file:** `Retail_Sales_Analysis_Master.sql`
 
 ------------------------------------------------------------------------
 
