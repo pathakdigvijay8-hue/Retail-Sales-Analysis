@@ -271,17 +271,32 @@ capitalization match.
 
 Use a structure similar to the following when uploading the project:
 
+## 📁 Repository Structure
+
 ```text
 Retail-Sales-Analysis/
 │
 ├── README.md
 │
 ├── SQL/
-│   ├── SQL_Script_01.sql
-│   ├── SQL_Script_02.sql
-│   ├── SQL_Script_03.sql
-│   ├── ...
-│   └── SQL_Script_18.sql
+│   ├── 01_table_creation.sql
+│   ├── 02_data_quality_checks.sql
+│   ├── 03_overall_kpis.sql
+│   ├── 04_yearly_sales_analysis.sql
+│   ├── 05_market_analysis.sql
+│   ├── 06_category_analysis.sql
+│   ├── 07_subcategory_analysis.sql
+│   ├── 08_region_analysis.sql
+│   ├── 09_discount_analysis.sql
+│   ├── 10_monthly_sales_analysis.sql
+│   ├── 11_customer_segment_analysis.sql
+│   ├── 12_shipping_mode_analysis.sql
+│   ├── 13_top_profitable_products.sql
+│   ├── 14_loss_making_products.sql
+│   ├── 15_product_loss_analysis.sql
+│   ├── 16_top_profitable_customers.sql
+│   ├── 17_least_profitable_customers.sql
+│   └── 18_country_analysis.sql
 │
 ├── Dashboard/
 │   └── Retail_Sales_Dashboard.xlsx
