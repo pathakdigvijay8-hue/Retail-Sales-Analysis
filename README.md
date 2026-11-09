@@ -271,11 +271,17 @@ capitalization match.
 
 Use a structure similar to the following when uploading the project:
 
-``` text
+```text
 Retail-Sales-Analysis/
 │
+├── README.md
+│
 ├── SQL/
-│   └── Retail_Sales_Analysis_Master.sql
+│   ├── SQL_Script_01.sql
+│   ├── SQL_Script_02.sql
+│   ├── SQL_Script_03.sql
+│   ├── ...
+│   └── SQL_Script_18.sql
 │
 ├── Dashboard/
 │   └── Retail_Sales_Dashboard.xlsx
@@ -283,10 +289,8 @@ Retail-Sales-Analysis/
 ├── Screenshots/
 │   └── Dashboard.png
 │
-├── Report/
-│   └── Retail_Sales_Analysis_Report.pdf
-│
-└── README.md
+└── Report/
+    └── Retail_Sales_Analysis_Report.pdf
 ```
 
 You can also include the editable Word report if you want. Avoid
