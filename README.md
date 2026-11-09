@@ -239,7 +239,7 @@ includes:
 
 ### Dashboard Preview
 
-![Retail Sales Analysis Dashboard](Screenshots/Dashboard.png)
+![Retail Sales Dashboard](Screenshots/Dashboard.png)
 
 If the image does not appear on GitHub, check that the screenshot is
 saved at `Screenshots/Dashboard.png` and that the filename and
